@@ -1,0 +1,801 @@
+,customer name,avg monthly bill,Residential Ownership type,avg monthly consumption(units),Employment type,score
+0,Eric Mann,3120,own,290,salaried,897
+1,Anna Chapman,2820,rent,260,salaried,666
+2,Rebecca Sandoval,1280,rent,110,salaried,329
+3,Teresa Edwards,2860,rent,260,salaried,681
+4,Jennifer Allen,3010,rent,290,self employed,734
+5,Taylor Lawson,3470,rent,320,self employed,640
+6,Victoria Brown,3570,rent,350,self employed,505
+7,Stephanie Stewart,1400,rent,130,salaried,41
+8,Sandra Mason,2870,own,260,salaried,751
+9,Charles Yang,1950,own,180,salaried,313
+10,Julie Hawkins,1940,own,190,salaried,308
+11,Stephen Curry,1250,rent,120,salaried,103
+12,Julie Clark,2120,rent,210,salaried,185
+13,Brian Daniels,1790,own,180,salaried,179
+14,William Robbins,2590,rent,230,salaried,341
+15,Joshua Vance,2590,rent,260,salaried,36
+16,Amy Rodriguez,1620,own,150,salaried,553
+17,Jerry Tyler,3890,rent,370,self employed,973
+18,Maurice Gonzalez,1830,rent,160,salaried,650
+19,Jessica Tate,1670,rent,150,salaried,355
+20,Stephen Smith,3010,rent,270,salaried,354
+21,James Vega,2600,rent,240,salaried,17
+22,Dr. Sharon Hernandez,2950,rent,280,salaried,520
+23,Megan Ford,2860,rent,280,salaried,921
+24,Chad Ramirez,2170,rent,220,salaried,852
+25,Yesenia Collins,2560,own,220,salaried,678
+26,Patricia Dickerson,1120,own,100,salaried,597
+27,Cindy Miller,1730,rent,150,salaried,52
+28,Ashley Cook,1410,rent,120,salaried,947
+29,Zachary Conner,4170,rent,400,self employed,348
+30,Jeffrey Vazquez,2210,rent,230,salaried,939
+31,Michael West,2910,rent,290,salaried,478
+32,Dr. Brian Ellis,3740,rent,360,self employed,155
+33,Summer Gray,2080,rent,190,salaried,897
+34,Rachel Hammond,1150,rent,110,salaried,241
+35,Gabriela Baird,2580,rent,260,salaried,869
+36,Lisa Burnett,1710,own,150,salaried,924
+37,Jenna Berg,3580,own,340,salaried,473
+38,Jerry Williams,4010,rent,380,self employed,130
+39,Christopher Miller,1250,rent,110,salaried,879
+40,Jonathan Brown,3570,rent,340,self employed,500
+41,Susan Howard,3330,rent,320,self employed,197
+42,Wesley Brown,1630,rent,150,salaried,493
+43,Daniel Pierce,2590,rent,230,salaried,853
+44,Randy Johnson,3400,rent,320,salaried,404
+45,Joseph Dickerson,4170,rent,400,self employed,107
+46,Randy Sims,3120,rent,310,salaried,803
+47,Tyler Howard,3640,rent,350,salaried,650
+48,Jeremy Watts,2490,rent,240,salaried,649
+49,Jennifer Nelson,2100,rent,200,salaried,636
+50,William Chavez,1690,rent,160,salaried,301
+51,Megan Collins,1980,own,180,salaried,923
+52,Megan King,3410,rent,330,self employed,891
+53,Marc Reyes,1830,rent,170,salaried,208
+54,Brandon Arnold,3040,rent,300,self employed,617
+55,Shawn Hernandez,1940,rent,170,salaried,317
+56,Jennifer Jones,3170,rent,290,salaried,26
+57,Steven Sanchez,2550,rent,240,salaried,982
+58,Abigail Chandler,3870,rent,360,self employed,407
+59,Lisa Allen,2140,rent,200,salaried,304
+60,Robert Jones,2800,rent,270,salaried,751
+61,Eugene Smith,1680,rent,150,salaried,669
+62,Michael Lawrence MD,3520,own,330,self employed,994
+63,Melvin Garcia,2230,rent,210,salaried,938
+64,Debbie Macdonald,2500,rent,240,salaried,418
+65,John Kennedy,3210,rent,310,salaried,434
+66,Christine Rhodes,1400,rent,130,salaried,241
+67,Walter Taylor,1230,rent,110,salaried,566
+68,Gail Mendoza,3440,rent,320,self employed,557
+69,Linda Ramirez,2920,rent,270,salaried,46
+70,Lisa Marshall,3390,rent,320,salaried,753
+71,Jeffrey Flores,4100,own,390,self employed,391
+72,Andrea Christensen,3560,rent,340,self employed,188
+73,Carolyn Willis,2140,own,210,salaried,710
+74,Susan Garcia,2940,rent,280,salaried,903
+75,Oscar Mckinney,3510,rent,340,self employed,733
+76,Raymond Burton,4140,rent,390,self employed,761
+77,Jill Snyder,1700,rent,160,salaried,276
+78,Norma Mccall,1800,rent,180,salaried,711
+79,Frank Schaefer,3520,rent,330,self employed,270
+80,Peter Carroll,3470,rent,330,self employed,712
+81,Scott Lucas,1030,own,90,salaried,451
+82,Alexander Miller,3140,rent,300,self employed,847
+83,Emily Hughes,2070,rent,190,salaried,782
+84,Ryan Lamb,4110,rent,390,self employed,289
+85,Shane Clark,3730,rent,360,self employed,479
+86,David Johnson DDS,2480,rent,230,salaried,843
+87,Lisa Reynolds,3320,rent,320,self employed,217
+88,Brandon Wu,3260,rent,310,salaried,794
+89,Jaime Tate,3850,rent,360,self employed,669
+90,Mary Smith,1280,rent,110,salaried,807
+91,Carolyn Cox MD,2040,rent,190,salaried,728
+92,Christina Hernandez,3820,own,360,self employed,798
+93,Kenneth Reed,1460,own,130,salaried,72
+94,Maria Simmons,2600,rent,250,salaried,593
+95,Samuel Young,3610,rent,340,self employed,464
+96,Brandon Peterson,1380,rent,120,salaried,803
+97,Jeffrey Hawkins,3550,rent,320,self employed,995
+98,Victor Perry,2220,rent,200,salaried,0
+99,Stacy Clark,3450,rent,320,salaried,732
+100,Tracy Jenkins,2720,own,250,salaried,110
+101,Christopher Collins,1340,rent,120,salaried,771
+102,David Hardy,1380,rent,130,salaried,376
+103,Elizabeth Chavez,1720,rent,160,salaried,218
+104,Kara Guerra,2210,rent,200,salaried,787
+105,Steven Schneider,3240,rent,300,salaried,258
+106,Suzanne Scott,1070,rent,100,salaried,424
+107,Jonathan Bradford,3830,rent,370,self employed,551
+108,Rebecca Martin,3240,rent,310,self employed,848
+109,Jessica Adkins,1680,rent,160,salaried,555
+110,Mark Preston,3450,rent,330,self employed,379
+111,Amy Simmons,2190,rent,190,salaried,153
+112,Allison Miller,1980,rent,190,salaried,697
+113,Kelly Benson,2640,rent,250,salaried,66
+114,Devin Ramos,3150,rent,300,self employed,955
+115,Brett Vargas,1960,rent,170,salaried,701
+116,Dalton Price,2830,own,250,salaried,758
+117,Kevin Brown,3350,rent,310,self employed,954
+118,Christina Leonard,1460,rent,140,salaried,270
+119,Denise Brewer,1470,rent,150,salaried,614
+120,Elizabeth Mccoy,3060,rent,280,salaried,245
+121,Nicholas Washington DDS,1330,rent,120,salaried,257
+122,Steve Fisher,3830,rent,360,self employed,125
+123,Dr. Michael Solis DDS,3700,rent,350,salaried,866
+124,John Combs,1520,rent,150,salaried,645
+125,Elizabeth Alvarez,2160,rent,200,salaried,912
+126,Laura Harper,1280,rent,110,salaried,380
+127,Mark Armstrong,3040,rent,290,self employed,982
+128,Daniel Nelson,2620,rent,270,salaried,460
+129,Victoria Solis,2270,rent,210,salaried,523
+130,Brian Delgado,2590,rent,250,salaried,775
+131,Patricia Lawson,3150,rent,290,self employed,369
+132,Julie Watts,3310,own,310,self employed,646
+133,John Oneill,1110,rent,100,salaried,561
+134,Christopher Duran,1960,rent,190,salaried,921
+135,Tasha Alexander,3160,rent,300,self employed,341
+136,Robert Vargas,2650,rent,250,salaried,934
+137,Amanda Robinson,4100,rent,390,self employed,972
+138,Lori Hill,3290,rent,300,salaried,153
+139,Catherine Salinas,1090,own,100,salaried,761
+140,Sheri Mendoza,2820,rent,290,self employed,732
+141,Adam Jennings,2360,rent,240,salaried,674
+142,Ann Bolton,1880,rent,180,salaried,81
+143,Robin Oconnell,3370,rent,320,self employed,738
+144,Angela Reynolds,1190,own,110,salaried,425
+145,Tracey Rodriguez,4120,own,390,self employed,780
+146,Melanie Hayden,2430,rent,210,salaried,460
+147,Vincent Wright,3920,rent,370,self employed,577
+148,Willie Humphrey,1840,own,180,salaried,136
+149,Nicholas Jenkins,2360,own,220,salaried,55
+150,James Conway,3910,rent,370,self employed,258
+151,David George,2270,rent,220,salaried,62
+152,Courtney Mcclure,2630,rent,250,salaried,715
+153,Kenneth Hood,1020,own,90,salaried,689
+154,Stephen Peterson,2360,rent,210,salaried,860
+155,Hannah Hernandez,4010,rent,380,self employed,934
+156,Chad Mora,1620,rent,150,salaried,925
+157,Anita Carter,3250,rent,310,salaried,92
+158,Tammie Wise,2030,own,170,salaried,869
+159,Robert Wong,1460,rent,140,salaried,10
+160,Maria Thomas,1130,rent,110,salaried,925
+161,Steven Terry,3480,rent,340,self employed,938
+162,Robert Chen,2940,rent,260,self employed,221
+163,Kathryn Scott,1290,rent,120,salaried,672
+164,Kristin Young,1810,rent,170,salaried,347
+165,Rhonda Brewer,1560,rent,150,salaried,606
+166,Craig Odonnell,1860,rent,170,salaried,511
+167,Devon Mullins,3200,own,300,salaried,20
+168,Debbie Russell,2220,rent,200,salaried,999
+169,David Taylor,3910,rent,370,self employed,758
+170,Jeffrey Marquez,1170,rent,100,salaried,561
+171,Dr. Kathleen Colon,1910,rent,170,salaried,68
+172,Robert Leonard,2420,rent,210,salaried,826
+173,Amanda Farrell,3310,rent,310,salaried,171
+174,Shelby Valdez,1320,rent,120,salaried,868
+175,Deanna Wood,1050,rent,90,salaried,533
+176,Thomas Martin,2940,rent,270,salaried,560
+177,Sara Meza,3040,own,280,salaried,752
+178,Mary Webb,3900,rent,380,self employed,586
+179,Nicholas Williams,1240,rent,120,salaried,540
+180,Cheryl Brown,1370,rent,120,salaried,366
+181,Tina Wheeler,1820,rent,180,salaried,2
+182,Aaron Morgan,3300,rent,330,self employed,289
+183,Kimberly Ho,3500,rent,330,salaried,396
+184,Jennifer Howard,2380,rent,220,salaried,156
+185,Michael Duncan Jr.,3800,rent,360,self employed,491
+186,Pamela Carr,2760,rent,250,salaried,461
+187,Nicholas Vargas,2350,rent,220,salaried,376
+188,Cindy Lawrence,3460,rent,310,salaried,839
+189,Justin Cunningham,2030,own,180,salaried,415
+190,Kenneth Cunningham,3080,rent,300,salaried,549
+191,Kathleen Stevens,2880,rent,270,salaried,672
+192,Melissa Haynes,4200,own,400,self employed,714
+193,Mark Roberts,2570,rent,240,salaried,285
+194,Charles Steele,2600,own,250,salaried,567
+195,Nathaniel Rodriguez,3010,rent,290,salaried,806
+196,Devin Martin,3170,rent,290,salaried,846
+197,Carrie Hull,1580,rent,150,salaried,6
+198,William Bell,3600,rent,360,self employed,585
+199,Sarah Stanley,1240,rent,120,salaried,800
+200,Bailey Smith,4050,rent,390,self employed,978
+201,Jose Mckinney,2380,rent,220,salaried,55
+202,William Smith,1580,own,150,salaried,854
+203,Michelle Brown,3740,own,350,self employed,44
+204,Matthew Cardenas,3610,own,340,self employed,767
+205,Justin Carter,3330,rent,300,self employed,416
+206,Brianna Kim,2090,rent,190,salaried,670
+207,Amy Parker,4120,rent,390,self employed,832
+208,Katherine Lopez,1500,rent,150,salaried,900
+209,David Guzman,3530,own,320,salaried,127
+210,Cynthia Gentry,3320,own,320,salaried,904
+211,Joseph Douglas,2590,rent,250,salaried,679
+212,Richard Hunt,1980,rent,170,salaried,466
+213,Martha Bright,3070,own,270,salaried,833
+214,Traci Hunt,2190,rent,190,salaried,764
+215,Dale Johnson,3740,rent,350,self employed,816
+216,Jacqueline Graham,3590,rent,340,self employed,195
+217,Sara Patel,3180,rent,290,self employed,739
+218,Jason Hudson,1960,rent,170,salaried,910
+219,Hailey Larson,2610,rent,240,salaried,117
+220,Veronica Ashley,2680,rent,240,salaried,705
+221,William Jones,3860,rent,370,self employed,190
+222,Kurt Lopez MD,3460,own,320,self employed,265
+223,Tammy Johnson,3510,rent,340,self employed,831
+224,Charles Proctor,2590,own,240,salaried,950
+225,Roger Neal,1400,own,120,salaried,772
+226,Travis Phillips,3740,rent,340,self employed,55
+227,Susan White DDS,1130,own,100,salaried,632
+228,Kimberly Perez,3240,rent,300,self employed,261
+229,Theresa Mills,1300,rent,120,salaried,773
+230,Jerry Allen,2950,rent,290,salaried,674
+231,Kenneth Bell,2940,own,270,salaried,421
+232,Cassandra Wilson,1120,own,100,salaried,908
+233,Rebecca Jones PhD,2010,rent,180,salaried,423
+234,Jennifer Wiggins MD,3810,rent,360,self employed,529
+235,John Young,4090,rent,390,self employed,469
+236,Sandra Huang,1520,rent,140,salaried,198
+237,Wendy Ford,1510,rent,130,salaried,196
+238,Jeffrey Bishop,1140,rent,110,salaried,874
+239,Bryan Reeves,1200,rent,110,salaried,19
+240,John Benton,3120,rent,310,salaried,333
+241,Edwin Finley,2810,rent,260,salaried,634
+242,Michelle Hale,2730,rent,260,salaried,622
+243,Michael Davis,1510,rent,130,salaried,224
+244,Mary Harris MD,2340,rent,230,salaried,876
+245,Amanda Gardner,2120,own,180,salaried,916
+246,William Byrd,2080,rent,190,salaried,950
+247,Philip Mcgee,3760,rent,360,self employed,453
+248,Sean Brown,2120,rent,200,salaried,123
+249,Jon Berg,2570,rent,250,salaried,296
+250,Nathan Oconnor,2730,rent,260,salaried,68
+251,James Smith,3980,rent,380,self employed,288
+252,Kayla Sullivan,4130,rent,390,self employed,106
+253,Brian Rogers,3540,rent,330,self employed,412
+254,Ashley Gutierrez,2780,rent,260,salaried,72
+255,Sherri Wilson,1750,rent,150,salaried,992
+256,Aaron Morton,3970,rent,380,self employed,909
+257,Danny Green,2880,rent,280,salaried,368
+258,Jesse Johnson,3760,rent,360,self employed,96
+259,Margaret Thompson,4050,own,380,self employed,925
+260,Sharon Johnston,3390,own,310,salaried,301
+261,Ashley Holland,3990,rent,380,self employed,31
+262,Susan Cabrera PhD,3070,own,290,salaried,242
+263,Julie Dean,1420,rent,130,salaried,177
+264,Samantha Simmons,3010,rent,280,salaried,437
+265,Rebecca Brandt,2710,rent,260,salaried,328
+266,Kaitlyn Ford,3420,rent,320,self employed,331
+267,Travis Anderson,2610,own,240,salaried,449
+268,Jennifer Morales,1150,rent,110,salaried,557
+269,Peter Mueller,1040,rent,90,salaried,99
+270,Rebecca Jones,3350,rent,310,salaried,763
+271,John Smith,3390,rent,320,self employed,15
+272,Madeline Graham,1010,rent,90,salaried,19
+273,Luis Jackson,3050,rent,280,salaried,579
+274,Victoria Fuentes,2790,own,270,salaried,173
+275,Robert Harrison,1960,rent,170,salaried,950
+276,Michael Morales,1790,rent,160,salaried,734
+277,Patricia Jones,3970,rent,380,self employed,780
+278,Mr. John Smith MD,1020,rent,90,salaried,948
+279,Kent Brown,3560,rent,350,self employed,320
+280,Gary Brown,3400,own,310,self employed,526
+281,Mary Hicks,3680,rent,350,self employed,639
+282,Kimberly Maynard,2740,own,260,salaried,272
+283,Tammy Green,3520,rent,350,self employed,508
+284,Jennifer Costa,2240,rent,220,salaried,797
+285,James Edwards,3100,rent,300,self employed,586
+286,Phillip Lopez,3670,rent,340,self employed,691
+287,David Guzman,3250,rent,310,salaried,339
+288,Dr. Daniel Carney,2220,rent,200,salaried,827
+289,Steven Kirk,2190,rent,230,salaried,51
+290,Alison Knight,4080,own,390,self employed,738
+291,Charles Howard,2880,rent,260,salaried,44
+292,Sharon Brown,2560,rent,250,salaried,18
+293,Christopher Hayes,2280,own,210,salaried,148
+294,Sarah King,4100,rent,390,self employed,144
+295,Nicole Carroll,2010,own,180,salaried,293
+296,Jeffrey Chambers,1770,rent,160,salaried,515
+297,Laura Hamilton,1160,rent,100,salaried,345
+298,Jon Benitez,2700,rent,260,salaried,121
+299,Julie Henson,3950,rent,380,self employed,217
+300,Mr. Zachary Taylor,2530,rent,240,salaried,491
+301,Rebecca Delgado,2640,rent,260,salaried,548
+302,Michael Obrien,3970,own,380,self employed,568
+303,Steven Martinez,2980,rent,270,salaried,292
+304,James Anderson,3030,rent,290,self employed,330
+305,Michael Lin,2970,own,290,salaried,45
+306,William Rivera,3960,rent,380,self employed,858
+307,Jessica Young,2470,rent,240,salaried,345
+308,Marilyn Donaldson,2450,rent,240,salaried,423
+309,Jessica Rush,3120,rent,270,salaried,997
+310,John Grant,3220,own,290,salaried,821
+311,Nancy Lambert,1650,rent,150,salaried,526
+312,Barry Lee,1220,own,110,salaried,145
+313,Adrian May,2050,rent,190,salaried,803
+314,Chase Hanna,4040,own,380,self employed,321
+315,Stephen Ramirez,3710,own,340,self employed,210
+316,Joseph Harris,1880,own,170,salaried,306
+317,Candice Herrera,3220,own,310,salaried,481
+318,Matthew Potts,3040,rent,300,salaried,916
+319,Brandon Allen,1430,rent,130,salaried,673
+320,Sarah Alexander,4140,rent,390,self employed,872
+321,Luis Oneill,1640,own,150,salaried,61
+322,Stephen Martinez,2740,rent,260,salaried,792
+323,Logan Hancock,2090,own,190,salaried,228
+324,Lynn Lopez,3940,rent,370,self employed,313
+325,April Peterson,1680,own,150,salaried,624
+326,Taylor Riley,2890,own,280,salaried,928
+327,Mark Alexander,2220,own,200,salaried,439
+328,Chad Rasmussen,3290,own,300,salaried,390
+329,Matthew Moore,2260,rent,210,salaried,704
+330,Katherine Reid DDS,2010,rent,180,salaried,263
+331,Carmen Smith,3150,rent,290,self employed,820
+332,Amanda Brooks,2440,rent,230,salaried,7
+333,Joshua Washington,1760,rent,160,salaried,381
+334,Timothy Jackson,1790,own,160,salaried,879
+335,Jeffrey Jackson,2960,own,270,salaried,156
+336,John Moran DVM,2100,rent,200,salaried,980
+337,Crystal Walker,2790,rent,260,salaried,173
+338,Jonathan Johnson,3160,rent,300,salaried,925
+339,Dawn Anderson,4170,rent,400,self employed,243
+340,Danielle Wiley,3950,rent,380,self employed,371
+341,Brian Schneider,3030,rent,280,salaried,210
+342,Haley Klein,1480,rent,140,salaried,683
+343,Jared Briggs,4140,own,390,self employed,305
+344,Alexandra Clark,4000,own,380,self employed,847
+345,Sherri Bell,1190,own,110,salaried,601
+346,Shirley Eaton,2860,rent,250,salaried,81
+347,Matthew Stanley,2060,own,200,salaried,555
+348,Jacqueline Bauer,2910,rent,270,salaried,421
+349,Mindy Baker,3450,own,330,salaried,966
+350,Terri Fernandez,3620,rent,350,self employed,997
+351,Jason Wang,2990,own,290,salaried,127
+352,Ashley Perkins,1500,rent,130,salaried,90
+353,Christopher Hill,2070,rent,210,salaried,990
+354,Angela Stewart,1800,rent,170,salaried,924
+355,Erin Mendez,2430,rent,210,salaried,861
+356,Victor Hodges,2570,rent,260,salaried,855
+357,Joseph Lewis,1150,rent,100,salaried,882
+358,Michael Ferrell,1360,own,120,salaried,595
+359,Christopher Mitchell,3850,rent,370,self employed,599
+360,Phillip Keller,2870,own,270,salaried,885
+361,Lisa George,1710,rent,160,salaried,816
+362,Bryan York,2970,own,290,salaried,349
+363,Michaela Sawyer,3990,rent,370,self employed,450
+364,David Peterson,4060,rent,390,self employed,571
+365,Richard Baker,2900,own,270,salaried,654
+366,Jeanette Collins,3520,own,340,self employed,421
+367,Kayla Mitchell,2830,rent,260,salaried,386
+368,Shaun Howard,1580,rent,150,salaried,549
+369,Daniel Wilkinson,2510,rent,250,salaried,843
+370,Melissa Gomez,1100,rent,100,salaried,960
+371,Douglas Smith,2280,rent,200,salaried,441
+372,Amy Gonzalez,3630,rent,340,self employed,487
+373,Jacob Reid,3380,rent,330,self employed,237
+374,Matthew Fernandez,2730,rent,260,salaried,817
+375,Ashley Higgins,3650,rent,340,self employed,255
+376,Mr. Michael Cook,1530,own,140,salaried,530
+377,Pamela West,1170,rent,110,salaried,214
+378,Emily Reilly,1070,rent,100,salaried,71
+379,Rebecca Ramirez,3230,own,300,salaried,222
+380,Kathleen Williamson,3210,own,300,salaried,761
+381,Robert Smith,3200,rent,310,self employed,856
+382,Christian Brady,2370,rent,220,salaried,385
+383,David Allen,2340,rent,220,salaried,10
+384,Mr. Cody Velez DDS,2370,rent,220,salaried,190
+385,Michael Taylor,4100,own,390,self employed,989
+386,Stacy Wilkinson MD,3690,rent,340,salaried,524
+387,Jonathan Robinson,1680,rent,170,salaried,324
+388,David Warren,2480,rent,240,salaried,62
+389,John Miller,1250,rent,120,salaried,771
+390,Jessica Guerrero,3350,rent,320,self employed,915
+391,Kirk Todd,3510,rent,330,salaried,846
+392,Adam Bryan,2750,rent,230,salaried,311
+393,Kristin Avery,2780,rent,270,salaried,687
+394,Priscilla Johnson,1630,rent,150,salaried,385
+395,Jaime Brooks,2170,rent,200,salaried,580
+396,Amy Crawford,3520,own,330,salaried,345
+397,Carmen Banks,1490,rent,140,salaried,852
+398,James Parker,1850,own,180,salaried,376
+399,Brittany Myers,2120,own,200,salaried,381
+400,Mr. Thomas Villegas,2420,rent,240,salaried,939
+401,Carrie Baker,4160,own,390,self employed,836
+402,Karen Reed,2260,rent,220,salaried,748
+403,Katherine Perez,3940,rent,370,self employed,700
+404,Alexis Hays,2610,rent,240,salaried,416
+405,Haley Dalton,2990,rent,270,salaried,769
+406,Savannah Walker,2890,rent,270,salaried,981
+407,Rachel Foster,3240,own,310,self employed,133
+408,Mrs. Patricia Baker,3510,own,320,salaried,923
+409,Becky Bailey,3270,rent,300,self employed,634
+410,Valerie Taylor,1140,own,110,salaried,687
+411,Jessica Tyler,2810,rent,250,salaried,825
+412,Adam Long,2610,rent,250,salaried,891
+413,Steven Graham,1990,rent,180,salaried,526
+414,Victor Miller,2540,own,240,salaried,478
+415,Richard Anderson,2850,rent,270,salaried,420
+416,Tara Scott,2930,rent,270,salaried,204
+417,Stephen Stewart,3650,own,340,self employed,275
+418,Barry Simpson,3240,rent,310,self employed,870
+419,Tammy Garcia,3200,rent,310,salaried,701
+420,Michael Juarez,3590,own,340,salaried,878
+421,Jasmin Williams,1980,rent,190,salaried,571
+422,Mrs. Hannah Wilson MD,3000,rent,290,self employed,270
+423,Patricia Marshall,4000,rent,380,self employed,377
+424,Robin Rogers,3150,own,300,salaried,994
+425,Patrick Hammond,1340,rent,130,salaried,865
+426,Robert Ross,3000,own,290,salaried,208
+427,Linda Hart,3260,own,300,salaried,117
+428,Jasmine Byrd,1570,rent,150,salaried,531
+429,Jonathon Boone,4100,rent,390,self employed,347
+430,Linda Martinez,2060,own,200,salaried,595
+431,Bradley Lee,1420,rent,130,salaried,300
+432,Jordan Russell,1330,own,120,salaried,255
+433,Jaime Munoz,2640,own,260,salaried,328
+434,Anthony Gomez,3810,rent,360,self employed,149
+435,Sarah Ballard,2180,rent,200,salaried,265
+436,Nicole Levy,3370,own,320,self employed,211
+437,Michael Jones MD,4000,rent,380,self employed,63
+438,George Peterson,2790,rent,270,salaried,549
+439,Anthony Leach,2580,rent,250,salaried,524
+440,Brandon Butler,2300,rent,210,salaried,77
+441,Shawn Kim,4110,rent,390,self employed,338
+442,Christine Norris,2540,rent,250,salaried,74
+443,Maureen Wood,2160,rent,200,salaried,31
+444,Charles Thomas,3180,rent,290,salaried,650
+445,Thomas Elliott,3470,rent,330,self employed,256
+446,Kristen Atkins,1350,own,120,salaried,536
+447,Samuel Morris,2350,own,210,salaried,171
+448,Angelica Bird,2820,own,260,salaried,985
+449,Gregory Allen,2450,own,230,salaried,376
+450,Caitlin Buchanan,2230,rent,220,salaried,85
+451,Brandy Crane,2450,own,220,salaried,378
+452,Elizabeth Sampson,2590,rent,230,salaried,595
+453,Shawn Porter,2110,rent,200,salaried,242
+454,Kathryn Nicholson,2900,rent,260,salaried,568
+455,Crystal Young,3350,own,310,salaried,808
+456,Michael Perez,3830,own,360,self employed,406
+457,Mary Brown,1050,rent,90,salaried,583
+458,Taylor Brown,3290,rent,290,self employed,832
+459,James Smith,3630,rent,350,self employed,315
+460,Michael Charles,1760,own,160,salaried,953
+461,Melissa Smith,1650,rent,150,salaried,362
+462,Natalie Peters,2770,own,250,salaried,601
+463,Bruce English,2680,rent,250,salaried,415
+464,Richard Smith,3410,rent,320,self employed,779
+465,Melissa Jones,3920,own,370,self employed,358
+466,Pamela Green,3090,rent,290,salaried,346
+467,Brian Ortiz,2890,own,270,salaried,354
+468,Brad Young,4110,rent,390,self employed,713
+469,Tina Sanders,2610,rent,250,salaried,1
+470,Miranda Roberts,2650,own,250,salaried,826
+471,Brianna Sanchez,2220,rent,220,salaried,796
+472,Shari Hunter,3360,rent,310,self employed,824
+473,Peter Castro,2770,own,270,salaried,77
+474,Kenneth Johnson,1990,rent,200,salaried,229
+475,Regina Anderson,2490,rent,250,salaried,460
+476,Jacob Owens,2050,rent,200,salaried,384
+477,Lisa Crawford,2950,rent,270,salaried,407
+478,Melissa Kidd,2690,rent,230,salaried,151
+479,Amanda Chen,1170,rent,110,salaried,137
+480,Maria Mcclure,2470,rent,230,salaried,113
+481,Lisa Brooks,1890,rent,170,salaried,601
+482,Susan Martinez,4150,own,390,self employed,535
+483,Keith Guerrero,1130,own,100,salaried,252
+484,Angela Atkins,3090,rent,310,self employed,162
+485,Nicholas Hess,2810,rent,260,salaried,593
+486,Jason Wise,3140,rent,290,salaried,833
+487,Andrea Brown,1980,rent,200,salaried,902
+488,Ricardo Davis,1930,own,180,salaried,244
+489,Pamela Norris,3620,rent,340,self employed,272
+490,Mark Carter,1550,rent,140,salaried,998
+491,Molly Faulkner,1920,own,170,salaried,390
+492,Lynn Boyd,1610,rent,150,salaried,559
+493,Lauren Nelson,2090,rent,200,salaried,823
+494,Diane Foley,1810,rent,160,salaried,615
+495,Lauren Edwards,3070,rent,290,salaried,898
+496,Patrick Kennedy,2540,own,250,salaried,430
+497,David Armstrong,1300,rent,130,salaried,201
+498,Eileen Wang,2010,rent,170,salaried,752
+499,Adrienne Rodriguez,3010,rent,280,salaried,598
+500,Raymond Cook,3440,rent,330,self employed,980
+501,Matthew Bryant,3380,rent,320,self employed,808
+502,Heather Hill,1180,rent,100,salaried,252
+503,Timothy Taylor,3220,rent,300,self employed,275
+504,Jon Stuart,1980,rent,190,salaried,822
+505,Tina Glass,3760,own,360,self employed,338
+506,Lisa Pena,3440,own,320,salaried,838
+507,Lisa Nielsen,1970,rent,180,salaried,396
+508,Chelsea Conway,3670,rent,350,self employed,761
+509,Kristina Chen,1640,own,150,salaried,77
+510,Alexis Huynh,1680,rent,160,salaried,661
+511,Mrs. Stephanie Ferguson MD,1310,rent,120,salaried,300
+512,Maria Scott,1630,own,150,salaried,719
+513,Linda Newton,3520,own,330,self employed,800
+514,Raymond Page,2950,rent,290,salaried,745
+515,Michael Cervantes,2800,rent,250,salaried,951
+516,Lynn Cook,3830,rent,370,self employed,398
+517,Ryan Berry,4180,own,400,self employed,426
+518,Jennifer Williams,2010,rent,190,salaried,269
+519,James Griffin,1460,rent,140,salaried,917
+520,Natalie Logan,1160,rent,110,salaried,966
+521,Allison Zimmerman,1980,rent,190,salaried,955
+522,Sean Schultz,4110,rent,390,self employed,755
+523,Daniel Wilson,3490,rent,320,self employed,36
+524,Tyler Curry,2070,rent,180,salaried,710
+525,Mike Drake,1740,rent,160,salaried,534
+526,Michele Hardin MD,3990,rent,370,self employed,123
+527,Joel Reynolds,2280,rent,210,salaried,208
+528,Dominique Hernandez,3950,rent,380,self employed,751
+529,Lisa Chapman,3290,own,310,self employed,687
+530,Tamara Wells,1800,rent,170,salaried,731
+531,Kelly Stout,1910,rent,190,salaried,927
+532,Michael Higgins,2940,own,280,self employed,75
+533,Jesus Jones,2770,rent,270,salaried,220
+534,Thomas Morgan,1040,rent,90,salaried,8
+535,Kevin Larson,2550,rent,240,salaried,329
+536,Amy Webster,3820,own,360,self employed,192
+537,Randy Bennett,1310,rent,120,salaried,383
+538,Sara Brewer,3380,rent,320,self employed,425
+539,Ashley Johnson,2520,rent,250,salaried,111
+540,Christian Cox,1140,rent,100,salaried,386
+541,Richard Alvarado,1240,rent,110,salaried,147
+542,Doris Barber,4080,rent,390,self employed,572
+543,Kristen Thompson DDS,2780,rent,260,salaried,741
+544,Patrick Manning,1050,own,100,salaried,35
+545,Lonnie Mcintyre,2770,rent,240,salaried,460
+546,Lisa Vang,3550,rent,330,self employed,385
+547,Greg Hawkins,3320,rent,320,salaried,578
+548,Bryan Allen,2260,rent,240,salaried,951
+549,Gail Thompson,2120,own,200,salaried,823
+550,Jessica Williams,3280,rent,310,self employed,821
+551,Ryan Jenkins,1050,rent,90,salaried,132
+552,Heather Torres,4090,rent,390,self employed,696
+553,Joshua Miller,2060,rent,190,salaried,888
+554,Juan Bentley,1930,rent,170,salaried,567
+555,Christopher Mays,1610,rent,150,salaried,597
+556,Candice Mullen,3060,rent,310,salaried,35
+557,Diana Wood,2040,own,180,salaried,879
+558,Tonya Johnson,3370,own,300,salaried,608
+559,Wendy Anderson,3150,own,290,salaried,354
+560,Jennifer Velazquez,1680,own,160,salaried,736
+561,Paul Baldwin,1790,rent,180,salaried,252
+562,Natalie Dudley,3520,own,340,self employed,118
+563,Victoria Boyd,2800,rent,260,salaried,786
+564,Donald Ryan,2230,rent,210,salaried,612
+565,Michael Hines,2540,own,240,salaried,975
+566,Christie Hamilton,2140,rent,200,salaried,811
+567,Ryan Tran,4080,rent,380,self employed,944
+568,Andrew Cooper,3330,rent,310,salaried,366
+569,Courtney Holmes,2580,rent,250,salaried,571
+570,Travis Dunn,1730,rent,160,salaried,147
+571,Patricia Castaneda,2190,rent,220,salaried,586
+572,Jill Harrison,2780,rent,270,salaried,943
+573,Joshua Hill,2860,rent,270,salaried,899
+574,Katherine Fox,1150,rent,100,salaried,246
+575,Joshua Rich,2150,rent,200,salaried,406
+576,Michelle Murphy,2570,rent,250,salaried,753
+577,Stephanie Nunez,3240,rent,320,self employed,286
+578,Lori Nelson,1500,rent,130,salaried,403
+579,Haley Mcpherson,1030,rent,90,salaried,202
+580,John Walker,1550,own,150,salaried,619
+581,Randy Bean,2720,rent,260,salaried,320
+582,Kara Nelson,3330,rent,310,salaried,199
+583,Juan Miller,2000,rent,180,salaried,194
+584,Connie Jones,3640,rent,340,self employed,344
+585,Brian Faulkner,2610,rent,240,salaried,838
+586,Shelley Nguyen,1820,own,170,salaried,59
+587,Diane Edwards,3490,rent,330,salaried,320
+588,Laura Oneal,1790,rent,180,salaried,882
+589,Adam Welch,2990,own,280,salaried,886
+590,Jeff Richards,1720,rent,170,salaried,904
+591,Brooke Thomas,1440,rent,130,salaried,303
+592,Jenna Davis,1880,rent,180,salaried,815
+593,Timothy Snyder,1160,rent,110,salaried,334
+594,Monica Carpenter,3640,rent,340,self employed,585
+595,Mary Taylor,3710,rent,360,self employed,691
+596,Phillip George,1480,rent,140,salaried,757
+597,Jake Henry,2110,rent,200,salaried,287
+598,Veronica Fleming,3290,rent,290,salaried,696
+599,Kathleen Rubio,3250,rent,310,salaried,323
+600,Melissa Mercer,2870,rent,280,salaried,450
+601,Amanda Johnson,3060,rent,290,salaried,266
+602,Melissa Riggs,4190,own,400,self employed,403
+603,Cynthia Steele,3940,rent,370,self employed,673
+604,Zachary Hall,2000,own,190,salaried,628
+605,Renee Carter,1070,rent,100,salaried,50
+606,Kevin Nguyen,1330,own,130,salaried,78
+607,Misty Miller,1110,own,100,salaried,723
+608,Vincent Martinez,1890,own,180,salaried,845
+609,Maria Gentry,3210,rent,290,salaried,108
+610,Stanley Barrera,1770,rent,170,salaried,173
+611,Richard Morales,2910,rent,270,salaried,863
+612,Juan Hobbs,3690,rent,350,self employed,104
+613,Steven Wang,1320,rent,120,salaried,267
+614,Victoria Brooks,3980,rent,380,self employed,948
+615,Jacqueline Berger,3540,own,330,salaried,715
+616,Samantha Ward,3900,rent,370,self employed,657
+617,Francisco Jacobson,1600,rent,160,salaried,241
+618,Stephanie Bell,1590,own,130,salaried,351
+619,Sarah Green,3720,rent,360,self employed,348
+620,Travis Salas,2880,own,280,salaried,643
+621,Christian Banks,1460,rent,130,salaried,815
+622,Stephanie Nichols,2720,rent,270,self employed,552
+623,Laurie Ali,2970,own,270,salaried,902
+624,Maria Moore,1220,rent,110,salaried,853
+625,Kaitlyn Harmon,2890,rent,260,salaried,53
+626,Dorothy Juarez,3330,rent,310,salaried,294
+627,Destiny Smith,1990,rent,180,salaried,933
+628,Richard Miller,2210,rent,200,salaried,353
+629,Michelle Martinez,3020,own,290,salaried,515
+630,Michael Jones,1850,rent,170,salaried,145
+631,Julia Ware,2180,rent,200,salaried,110
+632,Janice Bowman,1890,rent,180,salaried,713
+633,Andrea Pope,1540,rent,140,salaried,803
+634,Charles Brown,3150,rent,290,salaried,92
+635,Christopher Ortega,3750,own,350,self employed,574
+636,Christopher Johnson,2920,rent,280,salaried,319
+637,Angela Jacobs,3980,rent,380,self employed,915
+638,Donna Mendoza,2870,rent,260,salaried,197
+639,Patrick Morse,3130,rent,290,salaried,592
+640,Sandra Benson,3190,rent,300,salaried,166
+641,Mark Jordan,3930,rent,370,self employed,368
+642,Victoria Mills,1900,rent,180,salaried,951
+643,Tammy Brown,3480,rent,310,self employed,908
+644,Mikayla Stewart,2620,rent,250,salaried,690
+645,Brenda Jones,4010,own,380,self employed,901
+646,Matthew Logan,2370,rent,210,salaried,980
+647,Rebecca Richards,2140,rent,200,salaried,168
+648,Adrian Stewart,3840,rent,360,self employed,399
+649,Ashley Cowan,3770,rent,360,self employed,631
+650,Jeffrey Williams,1740,own,160,salaried,436
+651,Sean Scott,1030,rent,90,salaried,937
+652,Elizabeth Thompson,1860,rent,180,salaried,260
+653,Kathryn Molina,1030,rent,90,salaried,763
+654,Mary Rios,3230,rent,290,salaried,207
+655,Brittany Hull,3150,rent,290,salaried,158
+656,David Anderson,4160,rent,400,self employed,413
+657,Mark Parker,1560,rent,150,salaried,238
+658,Gabrielle Lane,4080,rent,390,self employed,423
+659,Jorge Collins,2440,own,210,salaried,882
+660,Donna Williams,2240,rent,210,salaried,430
+661,Mary Brooks,3590,own,330,self employed,777
+662,Christian Case,3800,rent,360,self employed,543
+663,Shannon Anthony,2100,rent,190,salaried,29
+664,Edward Fox,2930,own,270,salaried,754
+665,Sarah Monroe,1470,own,130,salaried,63
+666,Sarah Moreno,2090,own,190,salaried,540
+667,Randall Richardson,1370,rent,120,salaried,119
+668,Alexandra Valencia,1780,rent,160,salaried,964
+669,William Maynard,1050,rent,100,salaried,294
+670,Ethan Scott,2900,own,260,salaried,121
+671,Dr. Renee Perez,1600,rent,140,salaried,867
+672,Eric Richardson,1910,rent,180,salaried,266
+673,Nicholas Black,2310,rent,220,salaried,561
+674,Amanda Guzman,1100,rent,100,salaried,54
+675,Scott Berger,1520,own,150,salaried,43
+676,Dustin Meyer,3870,rent,360,self employed,693
+677,Cody Mckinney,3810,rent,350,self employed,584
+678,Jesus Evans,2930,rent,280,salaried,622
+679,Jessica Cobb,2440,rent,230,salaried,601
+680,Tanya Pruitt,4100,own,390,self employed,948
+681,Luis Hayes,2660,rent,240,salaried,358
+682,John Weber,2380,rent,220,salaried,627
+683,Martin Morgan,1130,rent,110,salaried,352
+684,Christine Gonzalez,3610,rent,340,self employed,970
+685,Barry Blair,3030,rent,270,salaried,779
+686,Michelle Chavez,4080,own,390,self employed,903
+687,Melissa Medina,2970,rent,270,salaried,536
+688,Christine Navarro DDS,2990,rent,280,salaried,297
+689,Tara Burns,3500,rent,320,self employed,15
+690,Deborah Henry,2130,rent,200,salaried,563
+691,April Long,4200,rent,400,self employed,441
+692,Anthony Andersen DVM,1310,rent,120,salaried,353
+693,Brian Allen,3850,own,360,self employed,109
+694,Amber Hall,4000,own,380,self employed,195
+695,Stephanie Jackson,1340,rent,120,salaried,201
+696,Cassandra Young,3660,own,350,salaried,650
+697,Gregory Rodgers,3350,rent,320,self employed,157
+698,Rose Flores,3770,rent,360,self employed,367
+699,Pamela Wilson DDS,3790,rent,360,self employed,410
+700,Michael Moore,3800,own,360,self employed,373
+701,Dr. Jonathan Welch,1580,rent,150,salaried,481
+702,Adam Beard,3600,rent,350,self employed,290
+703,Rebecca James,1400,rent,130,salaried,585
+704,Michelle Thompson,2180,rent,210,salaried,244
+705,Mary Howard,4190,rent,400,self employed,664
+706,Robert Holloway,2430,rent,230,salaried,993
+707,Darrell Payne,1570,own,130,salaried,392
+708,Carolyn Weeks,2200,rent,210,salaried,349
+709,Dawn Lopez,2290,own,200,salaried,514
+710,Carl Martinez,1990,rent,190,salaried,376
+711,Jennifer Mueller,1800,rent,180,salaried,334
+712,Kimberly Moore,3110,rent,290,salaried,272
+713,Tyler Moore,1200,rent,110,salaried,6
+714,Katelyn Jenkins,1440,rent,140,salaried,801
+715,Cheryl Anderson,1850,rent,170,salaried,594
+716,Lisa Smith,1810,rent,160,salaried,37
+717,Matthew Townsend,3840,own,360,self employed,15
+718,Andrew Coleman,4100,own,390,self employed,571
+719,Christopher Crosby,1020,rent,90,salaried,650
+720,Patrick Richardson,3840,rent,360,self employed,553
+721,Travis Robles,3160,rent,310,salaried,795
+722,Barry Reynolds,2640,rent,240,salaried,41
+723,Stephen Cannon,2960,rent,290,salaried,481
+724,Mr. Daniel Rosario MD,3250,own,300,salaried,779
+725,Cynthia Wood,3670,rent,350,self employed,91
+726,Jennifer Rogers,1760,rent,170,salaried,656
+727,Ms. Stacy Colon DVM,2040,rent,190,salaried,851
+728,Evelyn Kelley,1660,rent,160,salaried,766
+729,Jesse Doyle,3230,rent,320,salaried,568
+730,David Anderson,3960,rent,380,self employed,198
+731,Mr. Eric Black DVM,3490,own,330,salaried,796
+732,Beverly Hernandez,1970,rent,190,salaried,598
+733,Megan Trujillo,3690,rent,350,self employed,698
+734,Daniel Payne,4050,own,380,self employed,343
+735,Alexander Clark,1070,rent,100,salaried,538
+736,Tyler Sanders,2690,rent,260,salaried,386
+737,Andrew Schultz,2200,rent,210,salaried,25
+738,Ernest Reese,1150,rent,110,salaried,62
+739,Nancy Escobar,3650,rent,350,self employed,283
+740,Natasha Turner,1390,own,120,salaried,826
+741,Antonio Castaneda,1140,rent,100,salaried,433
+742,Richard Allison,4050,rent,380,self employed,518
+743,Chad Myers,1420,rent,130,salaried,848
+744,James Walker,3080,rent,280,salaried,786
+745,Melanie Davis,3250,own,310,self employed,635
+746,Phyllis Baker PhD,2370,rent,220,salaried,757
+747,Melissa Bird,3870,own,360,self employed,307
+748,Donald Greer,1510,rent,130,salaried,437
+749,Kelly Matthews,3650,own,340,self employed,575
+750,Richard Cook,1300,own,120,salaried,682
+751,Natasha Jackson,3440,rent,320,self employed,385
+752,Kevin Clark,3300,own,310,salaried,903
+753,Linda Wilson,1450,rent,150,salaried,289
+754,Jeremiah Lopez,4010,rent,380,self employed,904
+755,Christopher Riggs,2740,own,250,salaried,514
+756,Steven Alexander,3380,own,320,salaried,328
+757,Peter Schmidt,2140,rent,200,salaried,330
+758,Dennis Morse,2230,rent,210,salaried,226
+759,Barbara Gutierrez,3890,rent,370,self employed,807
+760,Heidi Garcia,1850,own,170,salaried,551
+761,Jessica Merritt,3940,rent,360,self employed,760
+762,Theresa Hughes,1060,rent,100,salaried,455
+763,Amy Craig,2920,own,280,salaried,76
+764,Misty Smith,2250,rent,200,salaried,508
+765,Kurt Lewis,4110,rent,390,self employed,186
+766,Darlene Hall,1050,rent,90,salaried,489
+767,Tammy Morgan,1500,rent,130,salaried,164
+768,Sherry Baker,2360,rent,230,salaried,143
+769,Michael Hill,3720,own,360,self employed,182
+770,Lisa Sanchez,1560,own,140,salaried,191
+771,Michelle Cole,3560,own,330,salaried,541
+772,Tara Cox,1350,rent,130,salaried,896
+773,Jason Morgan,1840,rent,170,salaried,101
+774,Pamela King,2180,rent,210,salaried,426
+775,Michael Ramos,2040,rent,180,salaried,423
+776,Eric Bryant,3070,rent,280,salaried,595
+777,Angela Ochoa,2680,rent,260,salaried,823
+778,Randy White DDS,1630,rent,150,salaried,295
+779,Nicholas Goodwin,3620,rent,350,self employed,156
+780,Christopher Johnston,2980,rent,270,salaried,829
+781,Christopher Best,3130,rent,280,salaried,831
+782,Stacy Lynch,1290,own,120,salaried,150
+783,Laura Washington,1190,rent,120,salaried,690
+784,Kimberly Russell,1390,rent,130,salaried,162
+785,Jessica Figueroa,3360,own,310,salaried,821
+786,Michelle King,2790,rent,270,salaried,950
+787,Danielle Foster,3050,rent,290,salaried,451
+788,Daniel Stout,3640,rent,340,self employed,274
+789,Albert Chavez,1540,rent,140,salaried,779
+790,Daniel Hernandez,1350,own,120,salaried,126
+791,Justin Bailey,2260,rent,220,salaried,35
+792,Yolanda Stewart,2360,rent,230,salaried,61
+793,Michaela Figueroa,2600,rent,240,salaried,244
+794,Raymond Barber,3460,own,320,self employed,836
+795,Christian Mason,3740,own,360,salaried,952
+796,Robert Hendrix,3990,rent,380,self employed,17
+797,Matthew Hayes,1510,rent,140,salaried,856
+798,Maria Sloan,3090,rent,280,salaried,19
+799,Randy Anderson,4130,own,390,self employed,309
