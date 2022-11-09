@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
 from scipy.stats import shapiro
 
 import plotly.express as px
@@ -415,10 +417,17 @@ def data_evaluation_page():
        'Decision_Rate'])
 
     def model_prediction(df):
-        loaded_model = joblib.load('de_framework_model.pkl')
+        scored_df = pd.read_csv('https://raw.githubusercontent.com/mishra-31/DE-Framework/main/training_data.csv').iloc[:,1:]
+        x = scored_df.iloc[:, 1:].drop(['score'], axis=1)
+        y = scored_df.score
+        print(x,y)
+        xtrain, xtest, ytrain, ytest = train_test_split(x, y, test_size=0.30, random_state=1)
+
+        LR = LinearRegression()
+        LR.fit(xtrain, ytrain)
         score = []
         for i in df.iloc[:, 1:].values:
-            pred = loaded_model.predict([i])
+            pred = LR.predict([i])
             score.append(round(pred[0], 2))
         df['score'] = score
         df = df.sort_values(by=['score'], ascending=False).reset_index(drop=True)
